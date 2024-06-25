@@ -1,0 +1,15 @@
+{
+  "name": "NodeExpressDockerApp",
+  "version": "1.0.0",
+  "description": "Creating docker image using docker file | Assignment 3 - Part 2 | DevOps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [],
+  "author": "Shivani Sehgal - C0893209",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
